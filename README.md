@@ -1,5 +1,11 @@
-Mern-Stack Project, cookies, jwt for auth transactions, react query for state manager was used
-Pics:
+<h1>Full-stack Twitter application using Nodejs, expressjs mongodb, reactjs.</h1>
+Jwt and cookies were used for auth transactions.
+<br>
+React Query was used for state management. 
+<br>
+Tailwind + daisy ui was used for design.
+<br>
+Picks:
 <img width="1440" alt="Ekran Resmi 2024-05-06 19 22 20" src="https://github.com/oktay379/Twitter-X-Full-Stack-App/assets/124916788/47489668-af95-4bb4-a7d2-5ac164dc0a9c">
 <img width="1440" alt="Ekran Resmi 2024-05-06 19 22 12" src="https://github.com/oktay379/Twitter-X-Full-Stack-App/assets/124916788/0e586d41-cc1e-4f26-8192-061391b693f1">
 <img width="1440" alt="Ekran Resmi 2024-05-06 19 21 50" src="https://github.com/oktay379/Twitter-X-Full-Stack-App/assets/124916788/a3321287-f624-4fe6-a3f2-b71e7cca6d47">
